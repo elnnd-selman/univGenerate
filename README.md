@@ -19,7 +19,7 @@ const theText = univGenerate('ku','w',2);
 console.log(theText);
 
 
-# options
+# Options
 # بژاردە
 
 Letters ku | kurdish \ la | latin
