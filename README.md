@@ -2,7 +2,8 @@
 # ئەمە چیە؟
 
 Easiest way use lorem ipsum for kurdish and latin letter language
- ...
+
+
 ئاسانترین ڕێگا بەکارهێنانی lorem ipsum بۆ زمانی پیتی کوردی و لاتینی
 
 
