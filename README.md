@@ -12,7 +12,7 @@ Easiest way to use lorem ipsum for kurdish and latin letter
 
 `npm i univGenerate`
 
-const univGenerate = require('univGenerate');
+const univGenerate = require('univgenerate');
 
 const theText = univGenerate('ku','w',2);
 

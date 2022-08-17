@@ -1,0 +1,25 @@
+{
+  "name": "univgenerate",
+  "version": "1.0.0",
+  "description": "Easiest way to use lorem ipsum for kurdish and latin letter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elnnd-selman/univGenerate.git"
+  },
+  "keywords": [
+    "text",
+    "generate",
+    "text",
+    "completion"
+  ],
+  "author": "elnndselman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elnnd-selman/univGenerate/issues"
+  },
+  "homepage": "https://github.com/elnnd-selman/univGenerate#readme"
+}
