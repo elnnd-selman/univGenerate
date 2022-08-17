@@ -22,10 +22,10 @@ console.log(theText);
 # options
 # بژاردە
 
-Languages ku | kurdish \ la | latin
+letters ku | kurdish \ la | latin
 
 For word w
 
 For sentence s
 
-length Number 1,2,3,4 ...200
+Length Number 1,2,3,4 ...200
