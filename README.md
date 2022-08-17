@@ -22,7 +22,7 @@ console.log(theText);
 # options
 # بژاردە
 
-letters ku | kurdish \ la | latin
+Letters ku | kurdish \ la | latin
 
 For word w
 
