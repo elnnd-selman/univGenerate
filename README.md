@@ -1,10 +1,10 @@
 # What is this?
 # ئەمە چیە؟
 
-Easiest way use lorem ipsum for kurdish and latin letter language
+Easiest way to use lorem ipsum for kurdish and latin letter language
 
 
-ئاسانترین ڕێگا بەکارهێنانی lorem ipsum بۆ زمانی پیتی کوردی و لاتینی
+ئاسانترین ڕێگا بەکارهێنانی بۆ lorem ipsum بۆ زمانی پیتی کوردی و لاتینی
 
 
 # Installation and usage
